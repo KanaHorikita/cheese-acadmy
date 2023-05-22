@@ -148,6 +148,8 @@ h1 {
 
 .course-img {
     width: 50vw;
+    height: 460px;
+    object-fit: cover;
     display: block;
     /* ↑display blockで画像下の余白を消そうとしたが効かず。。 */
 }
